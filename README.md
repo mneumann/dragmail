@@ -1,7 +1,7 @@
-dragmail
+DragMail
 ========
 
-The idea of this project is to create an easy-to-use and easy-to-deploy ("plug and play") mail server based on:
+The goal of this project is to create an easy-to-use and easy-to-deploy ("plug and play") mail server based on:
 
 * [DragonFlyBSD][dfly-home]
 * [OpenSMTPd][opensmtpd-home]
